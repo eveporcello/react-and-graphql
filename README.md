@@ -26,6 +26,12 @@ Welcome! I'm really glad that you're here. Below you'll find all of the resource
 - [SWAPI: Star Wars API](http://graphql.org/swapi-graphql/)
 - [Lab Instructions](https://slides.com/moonhighway/snowtooth-query-lab/)
 
+## Building a Server
+
+- [Exercise Start Files](https://github.com/graphqlworkshop/snowtooth-api)
+- [Server Exercise Finished](https://github.com/graphqlworkshop/snowtooth-api/tree/complete)
+- [Simple Strava Sample](https://github.com/eveporcello/simple-strava-sample/blob/master/index.js)
+
 ### Client-side GraphQL
 
 #### Simple Requests
