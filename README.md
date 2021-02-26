@@ -7,10 +7,6 @@
 
 Welcome! I'm really glad that you're here. Below you'll find all of the resources that we'll use throughout this course. If you're looking for slides, samples, links, etc., this is the place to look.
 
-## Pre-class Survey
-
-- [Survey](https://docs.google.com/forms/d/e/1FAIpQLSem3oGhLtGZlpcH7AkMX0-RXmVDNs4pmAM9PUzAelEEbpdYFA/viewform?usp=sf_link)
-
 ## Instructor Info
 
 - **Eve Porcello**: [Twitter](https://twitter.com/eveporcello) | [Email](mailto:eve@moonhighway.com)
@@ -72,7 +68,3 @@ curl -X POST \
 
 - [Fullstack Error Handling with GraphQL](https://blog.apollographql.com/full-stack-error-handling-with-graphql-apollo-5c12da407210)
 - [Apollo Federation](https://egghead.io/playlists/getting-started-with-apollo-federation-60ad0165)
-
-## Evaluation!
-
-- [Evaluation](https://forms.gle/GNis6oYXqMw6qKTp9)
