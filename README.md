@@ -24,7 +24,8 @@ Welcome! I'm really glad that you're here. Below you'll find all of the resource
 
 ## GraphQL Servers
 
-- [Server Example Finished](https://github.com/graphqlworkshop/snowtooth-api/tree/complete)
+- [Snowtooth Server](https://github.com/graphqlworkshop/snowtooth-api/tree/complete)
+- [Pet Library Server](https://github.com/moonhighway/pet-library)
 
 ### Client-side GraphQL
 
@@ -39,6 +40,8 @@ curl -X POST \
      http://snowtooth.moonhighway.com
 ```
 
+
+- [Snowtooth UI Start Files](https://github.com/graphqlworkshop/snowtooth-ui)
 - [Fetch Sample](https://codesandbox.io/s/n3jro0o4n0)
 - [graphql-request](https://codesandbox.io/s/4qzq5z2vz0)
 
