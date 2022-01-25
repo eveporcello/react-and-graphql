@@ -22,11 +22,9 @@ Welcome! I'm really glad that you're here. Below you'll find all of the resource
 - [SWAPI: Star Wars API](http://graphql.org/swapi-graphql/)
 - [Lab Instructions](https://slides.com/moonhighway/snowtooth-query-lab/)
 
-## Building a Server
+## GraphQL Servers
 
-- [Exercise Start Files](https://github.com/graphqlworkshop/snowtooth-api)
-- [Server Exercise Finished](https://github.com/graphqlworkshop/snowtooth-api/tree/complete)
-- [Simple Strava Sample](https://github.com/eveporcello/simple-strava-sample/blob/master/index.js)
+- [Server Example Finished](https://github.com/graphqlworkshop/snowtooth-api/tree/complete)
 
 ### Client-side GraphQL
 
@@ -44,27 +42,34 @@ curl -X POST \
 - [Fetch Sample](https://codesandbox.io/s/n3jro0o4n0)
 - [graphql-request](https://codesandbox.io/s/4qzq5z2vz0)
 
-### React & Apollo
 
-- [React Overview](https://slides.com/moonhighway/react-overview)
+#### Apollo Link Examples
+
+- [HTTP Link](https://codesandbox.io/s/koj24j5l07)
+- [Concatenating Links](https://codesandbox.io/s/ql4jlz54yq)
+- [Terminating Link: Start](https://codesandbox.io/s/objective-dawn-36rzq)
+- [Terminating Link: Finish](https://codesandbox.io/s/mutable-smoke-qkvgc)
+- [Apollo Client](https://codesandbox.io/s/oo3z008kzy?file=/src/index.js)
+
+### Apollo & React
+
 - [Snowtooth UI Start Files](https://github.com/graphqlworkshop/snowtooth-ui)
-- [Lab Instructions](https://slides.com/moonhighway/client-lab/)
+- [Snowtooth UI Finished Files](https://github.com/graphqlworkshop/snowtooth-ui/tree/complete)
+- [Lab](https://slides.com/moonhighway/client-lab/)
 
-## Apollo Tooling 🛠
+### Caching
 
-**Samples**
+- [Caching, Client Side Schema](https://github.com/eveporcello/pet-library-client)
 
-- [TypeScript & Apollo CLI - Finished Project + Instructions](https://github.com/graphqlworkshop/snowtooth-typescript)
-- [Snowtooth API](https://snowtooth.moonhighway.com)
-- [Lift Manager Sample Client Code](https://github.com/eveporcello/lift-manager/blob/master/src/index.js)
-- [Lift Manager Website](https://lift-manager.netlify.com)
-- [Big Basin Sample Client Code](https://github.com/eveporcello/big-basin/blob/master/src/index.js)
-- [Big Basin Website](https://big-basin.netlify.com)
-- [Client Side Mocking - CodeSandbox](https://codesandbox.io/s/client-mocking-epqmp)
-- [Apollo REST Data Sources](https://github.com/MoonHighway/countries-datasources)
-- [Batch Link](https://github.com/eveporcello/batching)
+### Defer and Stream
 
-## Useful Links
+- [Defer and Stream Slides](https://slides.com/moonhighway/defer-stream)
+- [GraphQL Bleeding Edge Playground](https://github.com/n1ru4l/graphql-bleeding-edge-playground)
+- [express-graphql, defer-stream branch](https://github.com/graphql/express-graphql/tree/defer-stream)
+- [graphql-js, defer-stream branch](https://github.com/graphql/graphql-js/tree/defer-stream)
 
-- [Fullstack Error Handling with GraphQL](https://blog.apollographql.com/full-stack-error-handling-with-graphql-apollo-5c12da407210)
-- [Apollo Federation](https://egghead.io/playlists/getting-started-with-apollo-federation-60ad0165)
+### Tutorials and Resources
+
+- [Apollo Odyssey](https://odyssey.apollographql.com/)
+- [How to GraphQL](https://howtographql.com)
+- [GraphQL.org](https://graphql.org)
