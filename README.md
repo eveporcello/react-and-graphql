@@ -28,6 +28,7 @@ Welcome! I'm really glad that you're here. Below you'll find all of the resource
 - [Exercise Start Files](https://github.com/graphqlworkshop/snowtooth-api)
 - [Snowtooth Server](https://github.com/graphqlworkshop/snowtooth-api/tree/complete)
 - [Pet Library Server](https://github.com/moonhighway/pet-library)
+- [Cheatsheet](https://raw.githubusercontent.com/sogko/graphql-shorthand-notation-cheat-sheet/master/graphql-shorthand-notation-cheat-sheet.png)
 
 ### Client-side GraphQL
 
