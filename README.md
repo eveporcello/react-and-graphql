@@ -22,16 +22,9 @@ Welcome! I'm really glad that you're here. Below you'll find all of the resource
 - [SWAPI: Star Wars API](http://graphql.org/swapi-graphql/)
 - [Lab Instructions](https://slides.com/moonhighway/snowtooth-query-lab/)
 
-## Schema Project
-
-We have a few iterations of this project saved as branches.
+## Creating an API
 
 - [Starting Slides](https://slides.com/moonhighway/schema-definition-language/)
-- [First Schema Iteration](https://github.com/MoonHighway/pet-library-schema/tree/initial-schema)
-- [Complete Schema](https://github.com/MoonHighway/pet-library-schema/tree/complete)
-
-## GraphQL Servers
-
 - [Exercise Start Files](https://github.com/graphqlworkshop/snowtooth-api)
 - [Snowtooth Server](https://github.com/graphqlworkshop/snowtooth-api/tree/complete)
 - [Pet Library Server](https://github.com/moonhighway/pet-library)
