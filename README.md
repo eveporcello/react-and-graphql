@@ -30,6 +30,14 @@ We have a few iterations of this project saved as branches.
 - [First Schema Iteration](https://github.com/MoonHighway/pet-library-schema/tree/initial-schema)
 - [Complete Schema](https://github.com/MoonHighway/pet-library-schema/tree/complete)
 
+## Next Steps, Other Resources
+
+- [Schema Definition Language - GraphQL Docs](https://graphql.org/learn/schema/)
+- [Schema Definition Language - Apollo Docs](https://www.apollographql.com/docs/apollo-server/schema/schema/)
+- [Schema Language Cheat Sheet](https://github.com/sogko/graphql-schema-language-cheat-sheet)
+- [Production Ready GraphQL book](https://productionreadygraphql.com/)
+- [Designing GraphQL Schemas, egghead.io](https://egghead.io/courses/designing-graphql-schemas-99db)
+
 ## GraphQL Servers
 
 - [Snowtooth Server](https://github.com/graphqlworkshop/snowtooth-api/tree/complete)
